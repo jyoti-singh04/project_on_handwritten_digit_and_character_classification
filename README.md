@@ -5,3 +5,6 @@
 * Preprcessing data
 * Create the model
 * Train the model
+* Evaluate the model
+
+#### In this project, MNIST datasets is used.
